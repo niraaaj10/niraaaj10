@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Advance image to text detection program which can detect text very accurately using deep learning no matter how blure the given text are. <br>🤝 I’m looking for help with advance deep learning algorithms that can be helpful for my current project <br>🌱 I’m currently learning Prompt engineering <br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on Advance image to text detection program which can detect text very accurately using deep learning no matter how blure the given text are. <br>🤝 I’m looking for help with advance deep learning algorithms that can be helpful for my current project <br>🌱 I’m currently learning Prompt engineering <br>💬 Ask me about Artificial Intelligence<br>⚡ Fun fact It’s all 0’s and 1’s
 
 
 ## 🌐 Socials:
